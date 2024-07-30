@@ -1,9 +1,5 @@
 # Olá, eu sou Germano França 👋
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente estudo a areá de desenvolvimento back-end, e sempre estou buscando aprender e me aperfeiçoar.
-
-- 🌱 Atualmente estou aprendendo: Python
-- 🧑🏽‍💻 Iniciante em programação. 
 
 ## Tecnologias e Ferramentas
 
